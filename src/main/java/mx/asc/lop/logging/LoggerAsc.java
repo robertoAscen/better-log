@@ -20,6 +20,7 @@ import mx.asc.lop.logging.bean.LoggerBean;
  * @date
  */
 public class LoggerAsc {
+	
 	//atributo Logger
 	private Logger logger;
 	//atributo LoggerAscService
